@@ -1,21 +1,96 @@
-<h1 align="center">Hi 👋, I'm Sandeep Madhavrao Patil</h1>
-<h3 align="center">I'm a passionate developer in the second year of my B.Tech, focused on AI, Machine Learning, and Deep Learning. I enjoy building AI-powered applications and exploring the latest advancements in technology.</h3>
 
-- 🔭 I’m currently working on **Real-Time Projects**
+# Hi 👋, I'm Sandeep Madhavrao Patil
 
-- 🌱 I’m currently learning **AIML , DBMS AND MERN**
+I'm a passionate developer in the second year of my B.Tech, focused on AI, Machine Learning, and Deep Learning. I enjoy building AI-powered applications and exploring the latest advancements in technology.
+## 🚀 About Me
 
-- 👨‍💻 All of my projects are available at [https://sandeep-m-patil.github.io/React-Tailwindcss/](https://sandeep-m-patil.github.io/React-Tailwindcss/)
+**CSE (AI & ML) Student | Front-End Developer**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12xB1pNaUXWbIwK7_v1gfzfpyqd1DaGr1/view](https://drive.google.com/file/d/12xB1pNaUXWbIwK7_v1gfzfpyqd1DaGr1/view)
+I'm passionate about exploring the latest tech, especially in the fields of AI, Machine Learning, and Deep Learning. I'm eager to learn and stay updated on emerging technologies while connecting with talented professionals to collaborate on interesting projects and ideas.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/psandeep2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="psandeep2005" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ag1a66b7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ag1a66b7" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/23ag1a66b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="23ag1a66b7" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/23ag1a66b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="23ag1a66b7" height="30" width="40" /></a>
-</p>
+## 💻 Skills
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+**Programming Languages**  
+
+[![Skills](https://skillicons.dev/icons?i=c,cpp,java,py)](https://skillicons.dev)
+
+**Web Basics**  
+
+[![Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+
+**Frontend**  
+
+[![Skills](https://skillicons.dev/icons?i=react,next,tailwindcss,bootstrap)](https://skillicons.dev)
+
+**Backend**  
+
+![Core Skills](https://skillicons.dev/icons?i=nodejs)
+
+**Database**  
+
+[![Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+
+**Tools**  
+
+[![Skills](https://skillicons.dev/icons?i=git,github,figma,postman)](https://skillicons.dev)
+
+**Cloud**  
+
+
+[![Skills](https://skillicons.dev/icons?i=vercel)](https://skillicons.dev)
+
+
+## 🌟 Featured Project
+
+1. **[FlipZon](https://github.com/sandeep-m-patil/FlipZon)**  
+
+   Flipzon is a modern e-commerce platform .  Users can log in with Google or email , explore products across categories like accessories and footwear, and filter items for easy navigation.
+    
+## 🛠️ Tech Stack
+
+[![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+
+[![shadcn/ui](https://img.shields.io/badge/shadcn/ui-4F46E5?logo=react&logoColor=white)](https://ui.shadcn.com/)
+
+[![Clerk](https://img.shields.io/badge/Clerk-6D28D9?logo=clerk&logoColor=white)](https://clerk.com/)
+
+[![Zustand](https://img.shields.io/badge/Zustand-6D28D9?logo=react&logoColor=white)](https://zustand-demo.pmnd.rs/)
+
+
+##
+
+1. **[Zwigato](https://github.com/sandeep-m-patil/zwigato)**  
+
+   It is an simple Frontend Clone Website made by using pure JavaScript . The Key topics used in this are : List and DOM .
+    
+## 🛠️ Tech Stack
+
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+
+
+
+
+
+
+
+
+
+## 💻 Coding Profiles
+
+- [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-blue)](https://leetcode.com/u/23ag1a66b7/)
+
+- [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-blue)](https://www.hackerrank.com/profile/23ag1a66b7)
+
+- [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-brightgreen)](https://www.geeksforgeeks.org/user/23ag1ah767/)
+
+
+## 🤝 Let's Connect
+
+- 📫 How to reach me: [Mail me ](mailto:sandeepatil10705@gmail.com)
+- 💼 Professional: [LinkedIn Profile](https://www.linkedin.com/in/psandeep2005/)
