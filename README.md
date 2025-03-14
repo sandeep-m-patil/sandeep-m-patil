@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AIML , DBMS AND MERN**
 
-- 👨‍💻 All of my projects are available at [https://sandeep-m-patil.github.io/sandeep-portfolio/](https://sandeep-m-patil.github.io/sandeep-portfolio/)
+- 👨‍💻 All of my projects are available at [https://sandeep-m-patil.github.io/React-Tailwindcss/](https://sandeep-m-patil.github.io/React-Tailwindcss/)
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/12xB1pNaUXWbIwK7_v1gfzfpyqd1DaGr1/view](https://drive.google.com/file/d/12xB1pNaUXWbIwK7_v1gfzfpyqd1DaGr1/view)
 
