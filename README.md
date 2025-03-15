@@ -9,12 +9,6 @@ I'm a passionate **B.Tech student** in my second year, specializing in **AI**, *
 **CSE (AI & ML) Student | Front-End Developer**  
 I am constantly exploring new advancements in the world of AI and ML. My goal is to leverage technology to solve real-world problems, build innovative solutions, and connect with professionals across the tech industry.
 
-Here’s what fuels my passion:
-- **Artificial Intelligence (AI)**
-- **Machine Learning (ML)**
-- **Deep Learning (DL)**
-- **Web Development**  
-- **Building AI-powered Applications**
 
 ---
 
