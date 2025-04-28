@@ -20,7 +20,7 @@ I'm passionate about exploring the latest tech, especially in the fields of AI, 
 
 **Frontend**  
 
-[![Skills](https://skillicons.dev/icons?i=react,next,tailwindcss,bootstrap)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=react,vite,next,tailwindcss,bootstrap)](https://skillicons.dev)
 
 **Backend**  
 
@@ -32,16 +32,12 @@ I'm passionate about exploring the latest tech, especially in the fields of AI, 
 
 **Tools**  
 
-[![Skills](https://skillicons.dev/icons?i=git,github,figma,postman,vscode)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=git,github,figma,postman,vscode,notion)](https://skillicons.dev)
 
 **Cloud**  
 
 
 [![Skills](https://skillicons.dev/icons?i=vercel)](https://skillicons.dev)
-
-
-
-
 
 
 
@@ -56,5 +52,6 @@ I'm passionate about exploring the latest tech, especially in the fields of AI, 
 
 ## 🤝 Let's Connect
 
-- 📫 How to reach me: [Mail me ](mailto:sandeepatil10705@gmail.com)
-- 💼 Professional: [LinkedIn Profile](https://www.linkedin.com/in/psandeep2005/)
+
+- 📧 [Mail me](mailto:sandeepatil10705@gmail.com)  
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/psandeep2005/)
