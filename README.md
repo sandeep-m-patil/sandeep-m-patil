@@ -4,7 +4,7 @@
 I'm a passionate developer in the second year of my B.Tech, focused on AI, Machine Learning, and Deep Learning. I enjoy building AI-powered applications and exploring the latest advancements in technology.
 ## 🚀 About Me
 
-**CSE (AI & ML) Student | Front-End Developer**
+**CSE (AI & ML) Student | Full Stack Web Developer**
 
 I'm passionate about exploring the latest tech, especially in the fields of AI, Machine Learning, and Deep Learning. I'm eager to learn and stay updated on emerging technologies while connecting with talented professionals to collaborate on interesting projects and ideas.
 
@@ -28,7 +28,10 @@ I'm passionate about exploring the latest tech, especially in the fields of AI, 
 
 **Database**  
 
-[![Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=mysql,mongodb,)](https://skillicons.dev)
+
+
+
 
 **Tools**  
 
@@ -41,13 +44,6 @@ I'm passionate about exploring the latest tech, especially in the fields of AI, 
 
 
 
-## 💻 Coding Profiles
-
-- [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-blue)](https://leetcode.com/u/23ag1a66b7/)
-
-- [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-blue)](https://www.hackerrank.com/profile/23ag1a66b7)
-
-- [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-brightgreen)](https://www.geeksforgeeks.org/user/23ag1ah767/)
 
 
 ## 🤝 Let's Connect
